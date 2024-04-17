@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Get in touch!
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
@@ -12,8 +12,8 @@ Testing the text location on the contacts page.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email Chris"
+  link="cobara@health.ucsd.edu"
 %}
 {%
   include button.html
