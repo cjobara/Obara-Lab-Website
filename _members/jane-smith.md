@@ -1,13 +1,11 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Christopher Obara
+image: images/CJO_headshot.jpg
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://cjobara.org
+  orcid: 0000-0003-1028-6076
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
