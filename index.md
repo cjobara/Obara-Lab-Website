@@ -1,7 +1,7 @@
 ---
 ---
 
-## Obara Imaging Lab 
+# Obara Imaging Lab 
 
 An engaging 1-3 sentence description of your lab.
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/Rab18.tif"
+  image="images/HeLa Cell.png"
   link="research"
   title="Our Research"
   text=testing the text string here.
