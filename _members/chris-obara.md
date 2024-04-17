@@ -1,6 +1,6 @@
 ---
 name: Christopher Obara
-image: images/Obara.jpg
+image: images/Obara.JPEG
 role: pi
 
 links:
@@ -8,4 +8,4 @@ links:
   orcid: 0000-0003-1028-6076
 ---
 
-Write some clever description here of Chris 
+Write some clever description here of Chris that makes him not sound boring.
