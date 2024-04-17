@@ -2,6 +2,7 @@
 name: Safal Shrestha
 image: images/photo.jpg
 role: postdoc
+group: active
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
