@@ -2,6 +2,8 @@
 name: Christopher Obara
 image: images/Obara.JPEG
 role: pi
+description: Lead Programmer
+
 
 links:
   home-page: https://cjobara.org
